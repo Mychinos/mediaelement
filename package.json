@@ -1,5 +1,5 @@
 {
-  "name": "mediaelement",
+  "name": "@soccerwatch/mediaelement",
   "license": "MIT",
   "version": "4.2.9",
   "main": "full.js",
